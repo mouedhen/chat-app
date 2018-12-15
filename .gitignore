@@ -1,0 +1,13 @@
+# IDE Meta data
+.idea
+
+# node dependencies
+node_modules
+
+# configuration files
+.env
+
+# log files
+log
+*.log
+
